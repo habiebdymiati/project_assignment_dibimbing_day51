@@ -1,7 +1,6 @@
 # Assignment Day 51: Streaming for Data Pipeline
-**Program:** Data Engineer Bootcamp - Dibimbing.id  
+**Program:** Data Engineer Batch 15 - Dibimbing.id  
 **Materi:** Building Real-Time Data Pipelines with Apache Kafka & Apache Spark Structured Streaming  
-**Nama Siswa:** Habieb Dymiati Badrul Islam  
 
 ---
 
